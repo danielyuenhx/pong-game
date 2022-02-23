@@ -1,1 +1,1 @@
-# pong
+Pong game vs CPU!
