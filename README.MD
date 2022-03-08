@@ -1,5 +1,5 @@
 # Pong 
-Python program that plays Pong vs CPU./
+Python program that plays Pong vs CPU.\
 Program built using pygame library.
 
 ## Instructions
