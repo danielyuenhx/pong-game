@@ -1,6 +1,6 @@
 # Pong 
 Python program that plays Pong vs CPU.\
-Program built using pygame library.
+Program built using Python's `pygame` library.
 
 ## Instructions
 Entirety of the game is located within a single Python file.\
